@@ -1,8 +1,10 @@
-#Data Science 530
 
+#Data Science
+#DSC630 Data Exploration
 
-data <- read.csv("~/Data/R Book Examples/fusion_GLOBAL_DATAFLOW_UNICEF_1.0_.PT_F_15-49_FGM+PT_M_15-49_FGM_ELIM+PT_F_0-14_FGM+PT_F_15-49_FGM_ELIM.._(1).csv")
-data
+data <- read.csv("C:/Users/14026/Desktop/Data Science Courses 2020/DSC530_11252019/My project_DSC530/fusion_GLOBAL_DATAFLOW_UNICEF_1.0_.PT_F_15-49_FGM+PT_M_15-49_FGM_ELIM+PT_F_0-14_FGM+PT_F_15-49_FGM_ELIM.._(1).csv")
+head(data)
+
 dim(data)                   #shows the dimensions of the data frame by row and column
 str(data)                   # shows the structure of the data frame
 #summary(data)              # provides summary statistics on the columns of the data frame
