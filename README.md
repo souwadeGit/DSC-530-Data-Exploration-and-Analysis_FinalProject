@@ -11,8 +11,13 @@ Jupyter Notebook 6.0.1
 PYTHON 3.74
 
 Required Packages
+
 •	Numpy: for basic numerical computation 
+
 •	SciPy: for scientific  computation including statistics
+
 •	StatsModels: for regression and other statistical analysis
+
 •	 Pandas: for representing and analyzing data  
+
 •	Matplotlib: for visualization
